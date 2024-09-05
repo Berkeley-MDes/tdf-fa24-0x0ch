@@ -27,7 +27,7 @@ Later, I tried another material and then print a small Burger successfully.
 
 This week I discovered **Enzo Mari**, a furniture designer, and it was he who inspired my interest in making models. I also realized how the concepts of architecture and parametric design flow into small-scale product design, creating an unlimited fusion of knowledge without boundaries.
 
-<img width="200" alt="first try" src="assets/e.jpg">
+<img width="200" alt="enzo mari" src="assets/e.jpg">
 
 
 
