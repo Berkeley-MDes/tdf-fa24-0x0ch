@@ -64,7 +64,8 @@ This week I discovered **Enzo Mari**, a furniture designer, and it was he who in
 Welcome to your new GitHub repository! 
 
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[week 1](WeeklyReportAug29-Sep5.md)
+[week 1](WeeklyReportSep5-12.md)
 
 [week 3](WeeklyReport0919.md)
 
