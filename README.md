@@ -65,7 +65,8 @@ Welcome to your new GitHub repository!
 
 # Outline
 [week 1](WeeklyReportAug29-Sep5.md)
-[week 1](WeeklyReportSep5-12.md)
+
+[week 2](WeeklyReportSep5-12.md)
 
 [week 3](WeeklyReport0919.md)
 
