@@ -7,10 +7,10 @@ I began the process by researching existing designs online for inspiration. Afte
 <img width="1000" alt="first try" src="assets/09191.png">
 The first version of the 3D-printed stand had incorrect dimensions for the charger opening, making it impossible to fit the charging puck. I made adjustments and printed a second version, but it still didn’t fit as intended. I realized the error was in the measurement and alignment of the charger space.
 
-<img width="200" alt="first try" src="assets/09192.pic.jpg">
+<img width="1000" alt="first try" src="assets/09192.pic.jpg">
 Despite these setbacks, I remained persistent. I re-measured the charger dimensions and adjusted the model in Grasshopper. After rechecking all the parameters and making the necessary modifications, I printed a third version. This time, the charger fit perfectly, and the stand functioned as intended.
 
-<img width="200" alt="first try" src="assets/09193.pic.jpg">
+<img width="1000" alt="first try" src="assets/09193.pic.jpg">
 
 Reflection：This week’s experience highlighted the importance of iterative design and testing, especially in parametric modeling. Each mistake was an opportunity to refine my approach and improve the accuracy of my model. While it was frustrating to see the first two prototypes fail, it was a valuable learning process that underscored the need for precision and thoroughness in every step, from initial measurements to final printing.
 
