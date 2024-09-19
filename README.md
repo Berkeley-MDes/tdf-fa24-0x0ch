@@ -65,7 +65,7 @@ Welcome to your new GitHub repository!
 
 # Outline
 [week 1](README.md#week-1-example-report-1)
-[week 2](README.md# WeeklyReport001🥽)
+[week 2](README.md#WeeklyReport001🥽)
 
 [week 3](WeeklyReport0919.md)
 
