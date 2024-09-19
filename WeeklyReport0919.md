@@ -4,7 +4,7 @@
 
 I began the process by researching existing designs online for inspiration. After identifying key requirements—such as incorporating space for the charger and ensuring the watch faced me for easy viewing—I sketched an initial concept. Using Grasshopper, I created a parametric model, starting with a basic rectangular shape and developing it into a curved surface that could be securely attached to the pegboard.
 
-<img width="600" alt="first try" src="assets/09191.png">
+<img width="1000" alt="first try" src="assets/09191.png">
 The first version of the 3D-printed stand had incorrect dimensions for the charger opening, making it impossible to fit the charging puck. I made adjustments and printed a second version, but it still didn’t fit as intended. I realized the error was in the measurement and alignment of the charger space.
 
 <img width="200" alt="first try" src="assets/09192.pic.jpg">
