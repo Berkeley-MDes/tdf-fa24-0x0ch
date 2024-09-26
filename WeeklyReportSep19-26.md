@@ -8,7 +8,7 @@
 
 The Cat Health Monitoring Ecosystem integrates various smart devices to provide a comprehensive view of a cat's health and well-being. The Smart Cat Collar, Water Dispenser, Feeder, and Camera all send data to the central Cat Health Management App, which analyzes the information and provides health recommendations. The system includes feedback loops that automatically adjust care routines based on real-time data and historical health records, ensuring the cat remains healthy and active even in the owner's absence.
 
-![image.png](Weekly%20Report004%2010d74f87c074808abafce58987d9d60b/image.png)
+<img width="1200" alt="diagram" src="assets/1926.jpg">
 
 **Speculation:**
 
