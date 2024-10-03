@@ -14,3 +14,6 @@ However, I encountered some problems with the OLED connection and the code for c
 
 <img width="1200" alt="diagram" src="assets/10044.jpg">
 
+I returned and, after studying with my classmates Yingying and Dianer, I discovered the source of the problem and successfully ran the code.
+
+
