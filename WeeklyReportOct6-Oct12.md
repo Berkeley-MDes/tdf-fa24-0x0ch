@@ -1,7 +1,10 @@
-**Weekly Report006**
+#Weekly Report006 
 
-This week I attempted soldering the Photon and tested the code using Stemma.
+This week I attempted **soldering** the Photon and tested the code using Stemma.
 
+<img width="1200" alt="diagram" src="assets/10101.jpg">
+<img width="1200" alt="diagram" src="assets/10102.jpg">
+<img width="1200" alt="diagram" src="assets/10103.jpg">
 During this process, I'm very grateful for the help from my classmates Yingying and Dianer.
 
 We also formed a group, prepared a proposal and workflow.
