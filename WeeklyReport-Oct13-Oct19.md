@@ -9,7 +9,11 @@ First, we tested each controller individually, then we hoped to test them togeth
 <img width="1000" alt="first try" src="assets/101701.jpg">
 
 I was responsible for the haptic motor and vibrator parts, and successfully got them to work. But later we wanted to minimize the number of components involved, so we decided to remove the haptic motor and use only the vibrator for vibration alerts.
-<video src="assets/101703.mp4" controls="controls" width="1000"></video>
+<video width="1000" controls>
+  <source src="assets/101703.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <alt="first try" src="assets/101703.mp4">
 Then we tested the lights and vibration separately and ensured they could run synchronously.
 
