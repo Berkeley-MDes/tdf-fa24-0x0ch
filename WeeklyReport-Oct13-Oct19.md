@@ -6,9 +6,10 @@ This week we completed the submission of the proposal, and we are going to explo
 However, I'm very grateful for Yingying and Dianer's encouragement and help. We also had separate meetings with Jeff and Suhdu.
 
 First, we tested each controller individually, then we hoped to test them together.
+<img width="1000" alt="first try" src="assets/101701.jpg">
 
 I was responsible for the haptic motor and vibrator parts, and successfully got them to work. But later we wanted to minimize the number of components involved, so we decided to remove the haptic motor and use only the vibrator for vibration alerts.
-<video src="101703.mp4" controls="controls" width="1000"></video>
+<video src="assets/101703.mp4" controls="controls" width="1000"></video>
 
 Then we tested the lights and vibration separately and ensured they could run synchronously.
 
