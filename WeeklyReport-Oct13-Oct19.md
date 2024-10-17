@@ -8,7 +8,7 @@ However, I'm very grateful for Yingying and Dianer's encouragement and help. We 
 First, we tested each controller individually, then we hoped to test them together.
 <img width="1000" alt="first try" src="assets/101701.jpg">
 
-I was responsible for the haptic motor and vibrator parts, and successfully got them to work. But later we wanted to minimize the number of components involved, so we decided to remove the haptic motor and use only the vibrator for vibration alerts.
+I was responsible for the haptic motor and vibrator parts, and successfully got them to work. （https://youtu.be/93iBPSG53Z0?si=YyI0P1XLhoHLBqMS）But later we wanted to minimize the number of components involved, so we decided to remove the haptic motor and use only the vibrator for vibration alerts.
 
 
 （https://youtu.be/Za99rDB4UxI?si=vqxLsrmtznKsWwth）
