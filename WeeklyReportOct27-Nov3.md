@@ -1,4 +1,4 @@
-#Weekly Report 
+# Weekly Report 
 
 
 This week I was introduced to Zerowidth. Initially, I encountered issues during the registration process, which led to me not knowing what everyone was doing during the first class. I'm very grateful to TJ, who kindly helped me resolve the login problem via Zoom.
