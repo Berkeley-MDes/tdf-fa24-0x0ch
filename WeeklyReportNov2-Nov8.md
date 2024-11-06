@@ -1,4 +1,4 @@
-#Weekly Report
+# Weekly Report
 
 This week, I worked on the Zerowidth assignment with Dianer. We collaborated closely, helping each other solve the issues we encountered during the experiments.
 
