@@ -1,7 +1,7 @@
 ### The four of us finally settled on two proposals. Although everyone had different preferences, I particularly like the **Whisper Wish concept. I completed this proposal together with Dianer.**
 
 ### Proposal 1: **"Whisper Wish Installation"**
-
+<img width="1000" alt="first try" src="assets/11221.png">
 - **Introduction:** Uses Photon and Raspberry Pi to create an immersive and poetic experience where individual wishes are transformed into personalized visual and auditory memories.
 - **Key Features:**
     - Integration of **gesture recognition**, **voice processing**, and **generative content**.
@@ -9,7 +9,7 @@
     - Connects audience emotions with tangible and personalized outputs.
 
 ### Proposal 2: **"Mirror-like Interactions"**
-
+<img width="1000" alt="first try" src="assets/1122.png">
 - **Core Idea:** Reflects the interpersonal dynamic of seeing oneself in others through an interactive installation.
 - **Key Features:**
     - Participants engage in a familiar activity (e.g., sharing a meal) in front of a screen.
