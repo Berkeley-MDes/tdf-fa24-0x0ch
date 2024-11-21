@@ -9,7 +9,7 @@
     - Connects audience emotions with tangible and personalized outputs.
 
 ### Proposal 2: **"Mirror-like Interactions"**
-<img width="1000" alt="first try" src="assets/1122.png">
+<img width="1000" alt="first try" src="assets/1122.jpg">
 - **Core Idea:** Reflects the interpersonal dynamic of seeing oneself in others through an interactive installation.
 - **Key Features:**
     - Participants engage in a familiar activity (e.g., sharing a meal) in front of a screen.
