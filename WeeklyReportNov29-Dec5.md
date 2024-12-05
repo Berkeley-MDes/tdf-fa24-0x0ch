@@ -5,11 +5,11 @@ This week, my primary goal was to create a system where the Particle Photon coll
 - Developing a Flask server to host the Whisper transcription API locally.
 - Configuring the Zerowidth API for seamless text-based interactions.
 - Writing Photon code to handle HTTP requests for sending and receiving data.
-
+<img width="1000" src="assets/120501.png">
 #### **Challenges and Obstacles**
 1. **Technical Issues**:  
    I encountered several challenges, starting with running the Flask server. Managing the virtual environment and ensuring all dependencies were installed correctly took more time than expected. Networking issues also arose, such as finding the correct IP address and ensuring the Flask server was accessible over the local network. Additionally, I faced file format compatibility problems when uploading `.m4a` files to the Whisper API via Postman. Debugging the Photon’s HTTP client implementation was another hurdle, as I had to ensure accurate data exchange between the Photon, Flask, and Zerowidth APIs.
-
+<img width="1000" src="assets/120502.png">
 2. **Learning Curve**:  
    Working with multiple tools and technologies—Flask, Photon IDE, Postman, and Zerowidth—required significant effort to learn and troubleshoot. Understanding and implementing webhooks and API integrations for a smooth workflow was particularly challenging but rewarding.
 
@@ -25,7 +25,7 @@ Despite the challenges, I made considerable progress:
    - Capturing audio on the Photon and sending it to Whisper.
    - Whisper transcribing the audio and returning the text to the Photon.
    - The Photon forwarding the transcribed text to Zerowidth and receiving a contextual response.
-
+<img width="1000" src="assets/120503.png">
 #### **Reflections**
 1. **Adaptability and Persistence**:  
    Overcoming unexpected issues, such as missing dependencies and network configuration errors, underscored the importance of patience and adaptability. Breaking down the problem into smaller, manageable parts helped me solve issues more effectively.
