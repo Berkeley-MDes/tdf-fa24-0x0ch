@@ -9,11 +9,13 @@ This week, my primary goal was to create a system where the Particle Photon coll
 #### **Challenges and Obstacles**
 1. **Technical Issues**:  
    I encountered several challenges, starting with running the Flask server. Managing the virtual environment and ensuring all dependencies were installed correctly took more time than expected. Networking issues also arose, such as finding the correct IP address and ensuring the Flask server was accessible over the local network. Additionally, I faced file format compatibility problems when uploading `.m4a` files to the Whisper API via Postman. Debugging the Photon’s HTTP client implementation was another hurdle, as I had to ensure accurate data exchange between the Photon, Flask, and Zerowidth APIs.
+   
 <img width="1000" src="assets/120502.png">
-2. **Learning Curve**:  
+
+3. **Learning Curve**:  
    Working with multiple tools and technologies—Flask, Photon IDE, Postman, and Zerowidth—required significant effort to learn and troubleshoot. Understanding and implementing webhooks and API integrations for a smooth workflow was particularly challenging but rewarding.
 
-3. **Time and Effort**:  
+4. **Time and Effort**:  
    Iterative debugging became a major time investment. Each time I updated the Flask server, I had to restart it and recheck the configuration. Issues like mismatched file paths and missing dependencies across environments added to the workload.
 
 #### **Progress and Achievements**
@@ -25,7 +27,9 @@ Despite the challenges, I made considerable progress:
    - Capturing audio on the Photon and sending it to Whisper.
    - Whisper transcribing the audio and returning the text to the Photon.
    - The Photon forwarding the transcribed text to Zerowidth and receiving a contextual response.
+   - 
 <img width="1000" src="assets/120503.png">
+
 #### **Reflections**
 1. **Adaptability and Persistence**:  
    Overcoming unexpected issues, such as missing dependencies and network configuration errors, underscored the importance of patience and adaptability. Breaking down the problem into smaller, manageable parts helped me solve issues more effectively.
